@@ -1,29 +1,29 @@
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+# [[docs]]
+#   name = "Prologue"
+#   weight = 10
+#   identifier = "prologue"
+#   url = "/docs/prologue/"
 
-[[docs]]
-  name = "Examples"
-  weight = 20
-  identifier = "examples"
-  url = "/docs/examples/"
+# [[docs]]
+#   name = "Examples"
+#   weight = 20
+#   identifier = "examples"
+#   url = "/docs/examples/"
 
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+# [[docs]]
+#   name = "Help"
+#   weight = 60
+#   identifier = "help"
+#   url = "/docs/help/"
 
 [[main]]
   name = "Dynatrace"
-  url = "/docs/prologue/introduction/"
+  url = "/dynatrace/docguide/about"
   weight = 10
 
 [[main]]
   name = "Tech"
-  url = "/docs/prologue/introduction/"
+  url = "/dynatrace/docguide/about"
   weight = 20
 
 [[main]]
@@ -48,3 +48,9 @@
 #   name = "Privacy"
 #   url = "/privacy-policy/"
 #   weight = 10
+
+[[dynatrace]]
+  name = "Doc Guide"
+  weight = 10
+  identifier = "doc-guide"
+  url = "/dynatrace/docguide/"
