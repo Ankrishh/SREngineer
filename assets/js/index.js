@@ -82,6 +82,7 @@ Source:
     },
   });
 
+  
   var docs = [
     {{ range $index, $page := (where .Site.Pages "Section" "docs") -}}
       {
@@ -93,8 +94,21 @@ Source:
       },
     {{ end -}}
   ];
-
-  index.add(docs);
+  
+  var dynatrace = [
+    {{ range $index, $page := (where .Site.Pages "Section" "dynatrace") -}}
+      {
+        id: {{ $index }},
+        href: "{{ .Permalink | absURL }}",
+        title: {{ .Title | jsonify }},
+        description: {{ .Params.description | jsonify }},
+        content: {{ .Content | jsonify }}
+      },
+    {{ end -}}
+  ];
+  
+  index.add(docs);  
+  index.add(dynatrace);
 
   userinput.addEventListener('input', show_results, true);
   suggestions.addEventListener('click', accept_suggestion, true);

@@ -1,5 +1,5 @@
 ---
-title: "Dynatrace Doc Guide"
+title: "Doc Guide"
 description: "Doc Guide"
 lead: ""
 date: 2021-03-16T08:43:03+01:00
