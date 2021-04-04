@@ -7,7 +7,7 @@ lastmod: 2021-04-04T09:27:09+12:00
 draft: false
 images: []
 menu: 
-  docs:
+  tech:
     parent: "site-reliability"
 weight: 010
 toc: true
