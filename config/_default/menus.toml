@@ -23,7 +23,7 @@
 
 [[main]]
   name = "Tech"
-  url = "/dynatrace/docguide/about"
+  url = "/tech/site-reliability/introduction"
   weight = 20
 
 [[main]]
@@ -54,3 +54,9 @@
   weight = 10
   identifier = "doc-guide"
   url = "/dynatrace/docguide/"
+
+[[tech]]
+  name = "Site Reliability"
+  weight = 10
+  identifier = "site-reliability"
+  url = "/tech/site-reliability/"
