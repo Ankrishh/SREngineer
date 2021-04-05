@@ -82,9 +82,9 @@ Source:
     },
   });
 
-  
+   
   var docs = [
-    {{ range $index, $page := (where .Site.Pages "Section" "docs") -}}
+    {{ range $index, $page := .Site.AllPages -}}
       {
         id: {{ $index }},
         href: "{{ .Permalink | absURL }}",
@@ -92,37 +92,12 @@ Source:
         description: {{ .Params.description | jsonify }},
         content: {{ .Content | jsonify }}
       },
-    {{ end -}}
-  ];
-  
-  var dynatrace = [
-    {{ range $index, $page := (where .Site.Pages "Section" "dynatrace") -}}
-      {
-        id: {{ $index }},
-        href: "{{ .Permalink | absURL }}",
-        title: {{ .Title | jsonify }},
-        description: {{ .Params.description | jsonify }},
-        content: {{ .Content | jsonify }}
-      },
-    {{ end -}}
+    {{ end -}}    
   ];
 
-  var tech = [
-    {{ range $index, $page := (where .Site.Pages "Section" "tech") -}}
-      {
-        id: {{ $index }},
-        href: "{{ .Permalink | absURL }}",
-        title: {{ .Title | jsonify }},
-        description: {{ .Params.description | jsonify }},
-        content: {{ .Content | jsonify }}
-      },
-    {{ end -}}
-  ];
-  
-  index.add(docs);  
-  index.add(dynatrace);
-  index.add(tech);
 
+  index.add(docs);   
+  
   userinput.addEventListener('input', show_results, true);
   suggestions.addEventListener('click', accept_suggestion, true);
 
