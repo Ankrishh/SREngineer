@@ -7,7 +7,7 @@ lastmod: {{ .Date }}
 draft: true
 images: []
 menu: 
-  docs:
+  dynatrace:
     parent: ""
 weight: 999
 toc: true

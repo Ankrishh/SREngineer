@@ -21,4 +21,4 @@ You will find UI Navigation Steps and links to original documentation here.
 
 **Important:** 
 - This is not an exhaustive or official guide and is a continuously evolving page. Please use as light reference. 
-- Dynatrace Official documentation: [Welcome to Dynatrace Help](https://www.dynatrace.com/support/help/)
+- Dynatrace official documentation 👉[Welcome to Dynatrace Help](https://www.dynatrace.com/support/help/)

@@ -3,7 +3,7 @@
 ## Homepage
 title = "SREngineer"
 titleSeparator = "-"
-titleAddition = ""
+titleAddition = "Home"
 description = "Site Reliability Engineer"
 
 ## Open Graph + Twitter Cards

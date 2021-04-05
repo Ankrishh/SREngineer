@@ -55,6 +55,12 @@
   identifier = "doc-guide"
   url = "/dynatrace/docguide/"
 
+[[dynatrace]]
+  name = "Maturity Model"
+  weight = 20
+  identifier = "maturity-model"
+  url = "/dynatrace/maturity-model/"
+
 [[tech]]
   name = "Site Reliability"
   weight = 10
