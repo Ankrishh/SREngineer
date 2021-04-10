@@ -1,14 +1,19 @@
 ---
 title: "Application Servers"
-description: ""
-lead: ""
+description: "The engine behind web applications."
+lead: "The engine behind web applications."
 date: 2021-04-10T23:41:31+12:00
 lastmod: 2021-04-10T23:41:31+12:00
-draft: true
+draft: false
 images: []
 menu: 
   tech:
     parent: "technologies"
-weight: 999
+weight: 020
 toc: true
 ---
+## IBM WebSphere Application Server
+
+## JBoss/WildFly
+
+## Apache Tomcat

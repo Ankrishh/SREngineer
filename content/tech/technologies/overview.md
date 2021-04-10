@@ -13,4 +13,6 @@ weight: 010
 toc: true
 ---
 
-This section looks at different technologies that are common across organizations and their critical metrics.
+This section is an attempt to list different technologies common across organizations and capture some of their critical metrics to monitor.
+
+{{<alert text="NOTE: This section is a constant work in progress.">}}
