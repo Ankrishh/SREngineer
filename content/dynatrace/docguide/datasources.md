@@ -1,7 +1,7 @@
 ---
 title: "Data Sources"
 description: "All available Dynatrace Data Sources."
-lead: "All available Dynatrace Data Sources. Click on heading to see Dynatrace documentation"
+lead: "All available Dynatrace Data Sources. Click on heading to see Dynatrace documentation."
 date: 2021-04-02T13:18:57+13:00
 lastmod: 2021-04-02T13:18:57+13:00
 draft: true
