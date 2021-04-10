@@ -33,6 +33,6 @@ Transactions passing through monitored code (processes).
 
 ## [Application](https://www.dynatrace.com/support/help/shortlink/rum-application-concept)
 
-User Experience when using the application.
+Aggregated end user experience. 
 
     Dynatrace UI > Applications

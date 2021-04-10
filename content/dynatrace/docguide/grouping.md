@@ -50,20 +50,18 @@ toc: true
   
     Settings > Tags > Manually appled tags > Add Tag
     
-  This tag then appears in dropdown when creating a manual tag for a Host, Process, Service etc..
+  Auto-complete is available for existing manual tags.
       
     Host, Process/Process Group, Service, Database etc > {Open entity}> Properties/Properties and tags > + Add tag
     
 ### [Automatically applied tags](https://www.dynatrace.com/support/help/shortlink/tagging#automated-approach)
 
+Auto-tag entities based on rules.
+
     Settings > Tags > Automatically applied tags > Create Tag
-    
-    Tag entities based on a rule.
 
 ## [Management Zones](https://www.dynatrace.com/support/help/shortlink/management-zones-hub)
 
-Management Zone allows filtering the whole environment to just your team entities. Management Zones can be thought of as workspaces with the console.
+Management Zones can be thought of as workspaces with the console. Management Zone allows filtering of environment specific team entities.
 
     Settings > Preferences > Management zones > Add new management zone
-
-    Create rules based on condition.

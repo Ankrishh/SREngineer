@@ -31,6 +31,39 @@ Automatic problem detection with Davis AI.
 
 [How Davis detects the impact of a problem](https://www.dynatrace.com/support/help/shortlink/problem-impact-level)
 
+## [Adjust Problem Detection](https://www.dynatrace.com/support/help/shortlink/problem-detection-sensitivity)
+
+### Global level
+
+    Settings > Anomaly Detection
+        > Applications
+        > Services
+        > Database Services
+        > Infrastructure
+        > Plugin events
+
+### Host Group level
+
+    Hosts > {Host} > Properties > Host Group > Settings > Anomaly detection
+
+
+### Host Level
+
+    Hosts > {Host} > Settings > Anomaly detection
+
+### Services Level
+
+    Transactions & services > {Service} > Settings > Anomaly detection
+
+## Custom Alerts
+
+[Custom Alerts](https://www.dynatrace.com/support/help/shortlink/event-types-custom-alerts)
+
+[Custom alerts: What you set is what you get](https://www.dynatrace.com/news/blog/custom-alerts-set-get/)
+
+    Settings > Custom Alerts
+
+
 ## Alerting
 
 2 steps:

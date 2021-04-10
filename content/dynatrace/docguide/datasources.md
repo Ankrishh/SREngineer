@@ -21,7 +21,7 @@ Agent on server.
 
 ## [Agentless RUM](https://www.dynatrace.com/support/help/shortlink/agentless-rum)
 
-No Agent on server. Add Dynatrace JSAgent agent to web page for Real User Monitoring (RUM).
+No Agent on server. Manually add Dynatrace JSAgent agent to web page for Real User Monitoring (RUM).
 
 ## [Browser Extension - RUM](https://www.dynatrace.com/support/help/shortlink/rum-browser-extension)
 

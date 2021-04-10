@@ -4,7 +4,7 @@ description: "Custom name entities within Dynatrace."
 lead: "Custom name entities within Dynatrace."
 date: 2021-04-05T11:45:07+12:00
 lastmod: 2021-04-05T11:45:07+12:00
-draft: true
+draft: false
 images: []
 menu: 
   dynatrace:
@@ -23,23 +23,27 @@ toc: true
 
 ## [Service](https://www.dynatrace.com/support/help/shortlink/service-detection)
 
+### Global level
+
     Settings > Server-side service monitoring > Service naming rules
     
-    Individual Service -  Transactions & services > {Service} > Edit > Naming
-    
-    Request-naming API - Within Configuration API
+### Individual Service 
 
+    Transactions & services > {Service} > Edit > Naming
+    
 ## Web Request naming
 
-[Automate naming and segmentation of requests for business transaction monitoring at scale](https://www.dynatrace.com/news/blog/automate-naming-and-segmentation-of-requests-for-business-transaction-monitoring-at-scale/)
-
-[Track business transactions using advanced request naming rules](https://www.dynatrace.com/news/blog/track-business-transactions-using-advanced-request-naming-rules/)
+    Transactions & services > {Service} > Edit > Web request naming
 
 [Request naming API](https://www.dynatrace.com/support/help/shortlink/api-request-naming)
-
-    Transactions & services > {Service} > Edit > Web request naming
         
 [Request Naming using Request Attributes](https://www.dynatrace.com/support/help/how-to-use-dynatrace/services-and-transactions/configuration/set-up-web-request-naming-using-request-attributes/)
+
+Blog Posts:
+- [Automate naming and segmentation of requests for business transaction monitoring at scale](https://www.dynatrace.com/news/blog/automate-naming-and-segmentation-of-requests-for-business-transaction-monitoring-at-scale/)
+
+- [Track business transactions using advanced request naming rules](https://www.dynatrace.com/news/blog/track-business-transactions-using-advanced-request-naming-rules/)
+
 
 ## Application - User Actions
 

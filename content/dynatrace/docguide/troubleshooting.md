@@ -34,7 +34,9 @@ NOTE: To be used in conjunction with Dynatrace Support to troubleshoot issues re
 
 ### Service not detected
 
-- Check if any technology related features enabled under:
+Likely reasons:
+
+- Technology related features not enabled under:
     
     ```
     Settings > Monitored technologies
@@ -46,13 +48,15 @@ NOTE: To be used in conjunction with Dynatrace Support to troubleshoot issues re
   
   May need custom service detection
 
-    ```Settings > Server-side service monitoring > Custom service detection```
+    ```
+    Settings > Server-side service monitoring > Custom service detection
+    ```
 
 
 - Service Detection Tags not passed properly
 
     From [Transactions and services](https://www.dynatrace.com/support/help/shortlink/transactions-and-services-hub) documentation:
-    > To provide you with a continuous view of service flows Dynatrace uses the following means to track transactions across tiers:"
+    > To provide you with a continuous view of service flows Dynatrace uses the following means to track transactions across tiers:
     >
     > - `x-dynatrace` header for HTTP requests
     >
@@ -60,6 +64,7 @@ NOTE: To be used in conjunction with Dynatrace Support to troubleshoot issues re
     >
     > - A unique key for message queues (based on message properties)
 
+    Above conditions maybe not met.
 
 ### Service showing as 'Opaque Service'
 

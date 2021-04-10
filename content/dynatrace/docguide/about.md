@@ -15,7 +15,7 @@ toc: true
 
 This section is intended as an easy reference to Dynatrace docs. 
 
-You will find UI Navigation Steps and links to original documentation here.
+You will find UI navigation steps and links to original documentation here.
 
 <br/>
 
