@@ -4,7 +4,7 @@ description: "Dynatrace Log file locations"
 lead: "Dynatrace Log file locations"
 date: 2021-04-05T11:41:55+12:00
 lastmod: 2021-04-05T11:41:55+12:00
-draft: true
+draft: false
 images: []
 menu: 
   dynatrace:

@@ -1,7 +1,7 @@
 ---
 title: "Naming"
-description: ""
-lead: ""
+description: "Custom name entities within Dynatrace."
+lead: "Custom name entities within Dynatrace."
 date: 2021-04-05T11:45:07+12:00
 lastmod: 2021-04-05T11:45:07+12:00
 draft: true
@@ -12,3 +12,37 @@ menu:
 weight: 240
 toc: true
 ---
+
+## [Host](https://www.dynatrace.com/support/help/shortlink/hostname-config)
+
+    Settings > Monitoring > Host naming
+
+## [Process Group](https://www.dynatrace.com/support/help/shortlink/process-group-naming)
+
+    Settings > Processes and containers > Process group naming
+
+## [Service](https://www.dynatrace.com/support/help/shortlink/service-detection)
+
+    Settings > Server-side service monitoring > Service naming rules
+    
+    Individual Service -  Transactions & services > {Service} > Edit > Naming
+    
+    Request-naming API - Within Configuration API
+
+## Web Request naming
+
+[Automate naming and segmentation of requests for business transaction monitoring at scale](https://www.dynatrace.com/news/blog/automate-naming-and-segmentation-of-requests-for-business-transaction-monitoring-at-scale/)
+
+[Track business transactions using advanced request naming rules](https://www.dynatrace.com/news/blog/track-business-transactions-using-advanced-request-naming-rules/)
+
+[Request naming API](https://www.dynatrace.com/support/help/shortlink/api-request-naming)
+
+    Transactions & services > {Service} > Edit > Web request naming
+        
+[Request Naming using Request Attributes](https://www.dynatrace.com/support/help/how-to-use-dynatrace/services-and-transactions/configuration/set-up-web-request-naming-using-request-attributes/)
+
+## Application - User Actions
+
+[User Actions](https://www.dynatrace.com/support/help/shortlink/custom-names)
+
+    Applications > {Application} > User actions > Naming rules

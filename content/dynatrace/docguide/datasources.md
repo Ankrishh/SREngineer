@@ -4,7 +4,7 @@ description: "All available Dynatrace Data Sources."
 lead: "All available Dynatrace Data Sources. Click on heading to see Dynatrace documentation."
 date: 2021-04-02T13:18:57+13:00
 lastmod: 2021-04-02T13:18:57+13:00
-draft: true
+draft: false
 images: []
 menu: 
   dynatrace:
@@ -64,6 +64,7 @@ Monitor availability and performance of your webpages on a regular interval.
 - [JMX extensions](https://www.dynatrace.com/support/help/shortlink/jmx-extensions)
 - [OneAgent extensions](https://www.dynatrace.com/support/help/shortlink/oneagent-plugins-hub)
 - [ActiveGate extensions](https://www.dynatrace.com/support/help/shortlink/activegate-extensions-intro)
+- [Extensions 2.0](https://www.dynatrace.com/support/help/shortlink/get-started-extensions20)
 
 ## [Prometheus](https://www.dynatrace.com/support/help/shortlink/monitor-prometheus-metrics)
 
@@ -73,7 +74,19 @@ Send your Prometheus metrics to Dynatrace.
 
 Send your StatsD metrics to Dynatrace.
 
+## [Telegraf](https://www.dynatrace.com/support/help/shortlink/telegraf)
+
+Send your Telegraf metrics to Dynatrace.
+
+## [Script Metrics](https://www.dynatrace.com/support/help/shortlink/pipe-metric-ingestion)
+
+Send custom metrics obtained by running OS specific commands.
+
+## [OneAgent metric API](https://www.dynatrace.com/support/help/shortlink/local-api)
+
+Send custom metrics from your host via OneAgent to Dynatrace server.
+
 ## [Custom Metrics](https://www.dynatrace.com/support/help/shortlink/custom-metrics)
 
-Send metrics that can't be collected any other way using Dynatrace API.
+Send metrics that can't be collected any other way above using Dynatrace API.
 
