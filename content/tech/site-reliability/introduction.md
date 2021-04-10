@@ -13,5 +13,5 @@ weight: 010
 toc: true
 ---
 
-Some content here
+Coming soon.
 

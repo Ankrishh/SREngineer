@@ -8,7 +8,7 @@ draft: true
 images: []
 menu: 
   tech:
-    parent: "technology"
+    parent: "technologies"
 weight: 999
 toc: true
 ---
