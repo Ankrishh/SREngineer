@@ -9,7 +9,7 @@ images: []
 menu: 
   tech:
     parent: "technologies"
-weight: 060
+weight: 160
 toc: true
 ---
 
