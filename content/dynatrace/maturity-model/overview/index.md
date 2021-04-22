@@ -21,15 +21,15 @@ toc: true
 
 ## Maturity Levels:
 
-[Level 1: Onboard/Start with Dynatrace](http://localhost:1313/dynatrace/maturity-model/overview/#level-1-onboardstart-with-dynatrace)
+[Level 1: Onboard/Start with Dynatrace](/dynatrace/maturity-model/overview/#level-1-onboardstart-with-dynatrace)
 
-[Level 2: Customized Monitoring](http://localhost:1313/dynatrace/maturity-model/overview/#level-1-onboardstart-with-dynatrace)
+[Level 2: Customized Monitoring](/dynatrace/maturity-model/overview/#level-2-customized-monitoring)
 
-[Level 3: 360° Coverage](http://localhost:1313/dynatrace/maturity-model/overview/#level-1-onboardstart-with-dynatrace)
+[Level 3: 360° Coverage](/dynatrace/maturity-model/overview/#level-3-360-coverage)
 
-[Level 4: Events Integration](http://localhost:1313/dynatrace/maturity-model/overview/#level-1-onboardstart-with-dynatrace)
+[Level 4: Events Integration](/dynatrace/maturity-model/overview/#level-4-events-integration)
 
-[Level 5: NoOps](http://localhost:1313/dynatrace/maturity-model/overview/#level-1-onboardstart-with-dynatrace)
+[Level 5: NoOps](/dynatrace/maturity-model/overview/#level-5-noops)
 
 <br>
 

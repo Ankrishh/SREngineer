@@ -22,7 +22,7 @@ toc: true
      Defined during OneAgent install. Can update post install using oneagentctl.
 
   
-  2. [Tags](http://localhost:1313/dynatrace/docguide/grouping/#based-on-tags-and-metadatahttpswwwdynatracecomsupporthelpshortlinktags-and-metadata-hub)
+  2. [Tags](dynatrace/docguide/grouping/#based-on-tags-and-metadatahttpswwwdynatracecomsupporthelpshortlinktags-and-metadata-hub)
 
 ### Process
   
@@ -30,7 +30,7 @@ toc: true
                 
     Settings > Processes and containers > Process group detection
             
-  2. [Tags](http://localhost:1313/dynatrace/docguide/grouping/#based-on-tags-and-metadatahttpswwwdynatracecomsupporthelpshortlinktags-and-metadata-hub)
+  2. [Tags](/dynatrace/docguide/grouping/#based-on-tags-and-metadatahttpswwwdynatracecomsupporthelpshortlinktags-and-metadata-hub)
         
 ### Services
     
@@ -38,7 +38,7 @@ toc: true
             
     Settings > Server-side service monitoring > Merged service monitoring > Create merged service
     
-  2. [Tags](http://localhost:1313/dynatrace/docguide/grouping/#based-on-tags-and-metadatahttpswwwdynatracecomsupporthelpshortlinktags-and-metadata-hub)
+  2. [Tags](/dynatrace/docguide/grouping/#based-on-tags-and-metadatahttpswwwdynatracecomsupporthelpshortlinktags-and-metadata-hub)
     
 ## [Based on Tags and metadata](https://www.dynatrace.com/support/help/shortlink/tags-and-metadata-hub)
         
