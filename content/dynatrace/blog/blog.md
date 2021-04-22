@@ -13,7 +13,7 @@ weight: 3010
 toc: false
 ---
 
-|<div style="width:400px">Blog</div>    |Author   |Date     |Tags    |
+|<div style="width:400px">Blog</div>    |Date   |Author     |Tags    |
 |---------|---|--|---------|
 | [A practical guide to monitoring Python Applications with Dynatrace](https://www.dynatrace.com/news/blog/a-practical-guide-to-monitoring-python-applications-with-dynatrace/) | April 16, 2021 | Andreas Grabner | diagnostics, k8s, monitoring, observability, oneagent, python, slo | 
 | [DynaWine: Transform faster with automation and AI](https://www.dynatrace.com/news/blog/dynawine-transform-faster-with-automation-and-ai/) | April 15, 2021 | Jon Griffiths | ai, automation, vitality | 
