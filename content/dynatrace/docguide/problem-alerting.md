@@ -23,7 +23,9 @@ Out of the box static & dynamic thresholds defined for every metric coming into 
 
     Dynatrace UI > Settings > Anomaly detection    
 
-## [Problem Detection](https://www.dynatrace.com/support/help/shortlink/problems-hub)
+## Problem Detection
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/problems-hub)
 
 Automatic problem detection with Davis AI.
 
@@ -31,7 +33,9 @@ Automatic problem detection with Davis AI.
 
 [How Davis detects the impact of a problem](https://www.dynatrace.com/support/help/shortlink/problem-impact-level)
 
-## [Adjust Problem Detection](https://www.dynatrace.com/support/help/shortlink/problem-detection-sensitivity)
+## Adjust Problem Detection
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/problem-detection-sensitivity)
 
 ### Global level
 

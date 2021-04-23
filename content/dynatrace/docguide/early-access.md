@@ -13,15 +13,21 @@ weight: 450
 toc: true
 ---
 
-## [Previews](https://www.dynatrace.com/support/help/shortlink/preview-and-early-adopter-releases#previews)
+## Previews
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/preview-and-early-adopter-releases#previews)
 
 Previews provide access to new features but there is no guarantee of the feature reaching General Availability (GA).
 
-## [Early Adopter](https://www.dynatrace.com/support/help/shortlink/preview-and-early-adopter-releases#early-adopter-release-features)
+## Early Adopter
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/preview-and-early-adopter-releases#early-adopter-release-features)
 
 This is the stage before GA.
 
-## [OneAgent Early Adopter releases](https://www.dynatrace.com/support/help/shortlink/preview-and-early-adopter-releases#oneagent-early-adopter-releases)
+## OneAgent Early Adopter releases
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/preview-and-early-adopter-releases#oneagent-early-adopter-releases)
 
 Enable early adopter features:
 

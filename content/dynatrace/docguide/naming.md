@@ -13,15 +13,21 @@ weight: 240
 toc: true
 ---
 
-## [Host](https://www.dynatrace.com/support/help/shortlink/hostname-config)
+## Host
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/hostname-config)
 
     Settings > Monitoring > Host naming
 
-## [Process Group](https://www.dynatrace.com/support/help/shortlink/process-group-naming)
+## Process Group
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/process-group-naming)
 
     Settings > Processes and containers > Process group naming
 
-## [Service](https://www.dynatrace.com/support/help/shortlink/service-detection)
+## Service
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/service-detection)
 
 ### Global level
 

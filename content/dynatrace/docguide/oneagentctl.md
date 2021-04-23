@@ -13,7 +13,9 @@ weight: 390
 toc: true
 ---
 
-## [Location](https://www.dynatrace.com/support/help/shortlink/oneagentctl#location)
+## Location
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/oneagentctl#location)
 
 Linux:
 
@@ -24,7 +26,9 @@ Windows:
     %PROGRAMFILES%\dynatrace\oneagent\agent\tools  
 
 
-## [Capabilities](https://www.dynatrace.com/support/help/shortlink/oneagentctl)
+## Capabilities
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/oneagentctl)
 
 - [Change OneAgent ActiveGate](https://www.dynatrace.com/support/help/shortlink/oneagentctl#change-oneagent-communication-settings)
 - [Change OneAgent tenancy](https://www.dynatrace.com/support/help/shortlink/oneagentctl#change-oneagent-communication-settings)

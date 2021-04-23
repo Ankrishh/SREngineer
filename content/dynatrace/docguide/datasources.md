@@ -15,19 +15,27 @@ toc: true
 
 NOTE: Click on heading to navigate to Dynatrace docs.
 
-## [OneAgent](https://www.dynatrace.com/support/help/shortlink/oneagent-hub)
+## OneAgent
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/oneagent-hub)
 
 Agent on server.
 
-## [Agentless RUM](https://www.dynatrace.com/support/help/shortlink/agentless-rum)
+## Agentless RUM
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/agentless-rum)
 
 No Agent on server. Manually add Dynatrace JSAgent agent to web page for Real User Monitoring (RUM).
 
-## [Browser Extension - RUM](https://www.dynatrace.com/support/help/shortlink/rum-browser-extension)
+## Browser Extension - RUM
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/rum-browser-extension)
 
 Measure user experiences of SaaS applications like O365, Salesforce etc.
 
-## [Mobile Monitoring](https://www.dynatrace.com/support/help/shortlink/mobile-rum-subsection)
+## Mobile Monitoring
+
+> [doc]((https://www.dynatrace.com/support/help/shortlink/mobile-rum-subsection))
     
 - [Android](https://www.dynatrace.com/support/help/shortlink/android-hub) 
 
@@ -41,11 +49,15 @@ Measure user experiences of SaaS applications like O365, Salesforce etc.
 
 - [Xamarin](https://www.dynatrace.com/support/help/shortlink/xamarin)
 
-## [Custom Application - OpenKit](https://www.dynatrace.com/support/help/shortlink/openkit-hub)
+## Custom Application - OpenKit
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/openkit-hub)
 
 Instrument application with open source library.
 
-## [Cloud Platforms](https://www.dynatrace.com/support/help/shortlink/section-cloud-platforms)
+## Cloud Platforms
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/section-cloud-platforms)
 
 - [AWS](https://www.dynatrace.com/support/help/shortlink/aws-hub)
 - [Azure](https://www.dynatrace.com/support/help/shortlink/azure-hub)
@@ -55,38 +67,54 @@ Instrument application with open source library.
 - [Kubernetes](https://www.dynatrace.com/support/help/shortlink/kubernetes-hub)
 - [OpenShift](https://www.dynatrace.com/support/help/shortlink/openshift-hub)
 
-## [Synthetic](https://www.dynatrace.com/support/help/shortlink/synthetic-hub)
+## Synthetic
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/synthetic-hub)
 
 Monitor availability and performance of your webpages on a regular interval.
 
-## [Extensions/Plugins](https://www.dynatrace.com/support/help/shortlink/extensions-hub)
+## Extensions/Plugins
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/extensions-hub)
 
 - [JMX extensions](https://www.dynatrace.com/support/help/shortlink/jmx-extensions)
 - [OneAgent extensions](https://www.dynatrace.com/support/help/shortlink/oneagent-plugins-hub)
 - [ActiveGate extensions](https://www.dynatrace.com/support/help/shortlink/activegate-extensions-intro)
 - [Extensions 2.0](https://www.dynatrace.com/support/help/shortlink/get-started-extensions20)
 
-## [Prometheus](https://www.dynatrace.com/support/help/shortlink/monitor-prometheus-metrics)
+## Prometheus
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/monitor-prometheus-metrics)
 
 Send your Prometheus metrics to Dynatrace.
 
-## [StatsD](https://www.dynatrace.com/support/help/shortlink/statsd-metric-ingestion)
+## StatsD
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/statsd-metric-ingestion)
 
 Send your StatsD metrics to Dynatrace.
 
-## [Telegraf](https://www.dynatrace.com/support/help/shortlink/telegraf)
+## Telegraf
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/telegraf)
 
 Send your Telegraf metrics to Dynatrace.
 
-## [Script Metrics](https://www.dynatrace.com/support/help/shortlink/pipe-metric-ingestion)
+## Script Metrics
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/pipe-metric-ingestion)
 
 Send custom metrics obtained by running OS specific commands.
 
-## [OneAgent metric API](https://www.dynatrace.com/support/help/shortlink/local-api)
+## OneAgent metric API
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/local-api)
 
 Send custom metrics from your host via OneAgent to Dynatrace server.
 
-## [Custom Metrics](https://www.dynatrace.com/support/help/shortlink/custom-metrics)
+## Custom Metrics
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/custom-metrics)
 
 Send metrics that can't be collected any other way above using Dynatrace API.
 

@@ -52,7 +52,9 @@ toc: true
 
 - [ActiveGate extensions](https://www.dynatrace.com/support/help/shortlink/activegate-extensions-intro)
 
-## [Extensions 2.0](https://www.dynatrace.com/support/help/shortlink/get-started-extensions20) 
+## Extensions 2.0
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/get-started-extensions20)
 
 Latest extension framework.
 

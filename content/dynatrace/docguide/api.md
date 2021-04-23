@@ -13,7 +13,9 @@ weight: 420
 toc: true
 ---
 
-## [API](https://www.dynatrace.com/support/help/shortlink/section-api)
+## API
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/section-api)
 
 - [Environment API](https://www.dynatrace.com/support/help/shortlink/env-api)
     - API v1
@@ -24,7 +26,9 @@ toc: true
 - [Configuration API](https://www.dynatrace.com/support/help/shortlink/config-api)
 
 
-## [Generate Token](https://www.dynatrace.com/support/help/shortlink/api-authentication#generate-a-token)
+## Generate Token
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/api-authentication#generate-a-token)
 
     Settings > Integration > Dynatrace API > Create Token
 

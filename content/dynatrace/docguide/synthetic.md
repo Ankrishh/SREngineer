@@ -13,13 +13,17 @@ weight: 130
 toc: true
 ---
 
-## [HTTP Monitors](https://www.dynatrace.com/support/help/shortlink/synthetic-http-subsection)
+## HTTP Monitors
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/synthetic-http-subsection)
 
 Monitor web page & api (REST, SOAP) availability.
 
     Dynatrace UI > Synthetic > Create Synthetic Monitor > HTTP Monitor
 
-## [Browser Monitor](https://www.dynatrace.com/support/help/shortlink/browser-monitor)
+## Browser Monitor
+
+> [doc](https://www.dynatrace.com/support/help/shortlink/browser-monitor)
 
 Monitor single web page or full user journey availability & performance from a real browser.
 
