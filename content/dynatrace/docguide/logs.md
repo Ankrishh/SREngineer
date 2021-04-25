@@ -55,4 +55,4 @@ Windows:
 Linux:
 
     /var/lib/dynatrace/remotepluginmodule/log/remoteplugin/
-    /opt/dynatrace/remotepluginmodule/plugin_deployment/<plugin>\bin\logs
+    /opt/dynatrace/remotepluginmodule/plugin_deployment/<plugin>/bin/logs

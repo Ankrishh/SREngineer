@@ -15,7 +15,7 @@ toc: true
 
 ## Thresholds
 
-Out of the box static & dynamic thresholds defined for every metric coming into Dynatrace. No manual threshold definition overhead or concern about not setting threshold for a metric.
+Thresholds are defined out of the box for metrics coming into Dynatrace. No more overhead of manual threshold definition or concern about not setting threshold for a metric.
 
 [Static Thresholds](https://www.dynatrace.com/support/help/shortlink/problem-evaluation) for infrastructure monitoring.
 
