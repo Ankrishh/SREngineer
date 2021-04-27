@@ -22,7 +22,7 @@
   weight = 10
 
 [[main]]
-  name = "Tech"
+  name = "SRE"
   url = "/tech/site-reliability/introduction"
   weight = 20
 
